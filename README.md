@@ -10,9 +10,9 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] Image and introductory message displayed on screen
-* [ ] Button displayed on screen
-* [ ] Toast with message appears when button is pressed
+* [X] Image and introductory message displayed on screen
+* [X] Button displayed on screen
+* [X] Toast with message appears when button is pressed
 
 The following **optional** features are implemented:
 
@@ -37,7 +37,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2022 Nimai Griffith
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
